@@ -5,7 +5,7 @@ I am a passionate B.Tech CSE student at GL Bajaj Group of Institutions, Mathura,
 # 🚀 About Me
 
 -🔭 I'm currently pursuing my B.Tech in Computer Science Engineering with a focus on Artificial Intelligence and Data Science.
--🌱 I have a keen interest in Web Development, Machine Learning, and Data Science, and I'm continuously working on enhancing my skills in these areas.
+-🌱 I have a keen interest Machine Learning, and Data Science, and I'm continuously working on enhancing my skills in these areas.
 -🧠 I am also focused on mastering Data Structures and Algorithms to sharpen my problem-solving abilities.
 
 
