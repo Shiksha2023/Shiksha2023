@@ -15,17 +15,17 @@ I am a passionate B.Tech CSE student at GL Bajaj Group of Institutions, Mathura,
 
 -🔭 Diving deep into Data Science and Machine Learning
 
-  • Working with Python for data analysis       and statistical modeling.
+   • Working with Python for data analysis       and statistical modeling.
  
-  • Utilizing Pandas and NumPy for data         manipulation and preprocessing.
+   • Utilizing Pandas and NumPy for data         manipulation and preprocessing.
 
-  • Visualizing data with Matplotlib and        Seaborn to uncover insights.
+   • Visualizing data with Matplotlib and        Seaborn to uncover insights.
 
-  • Managing and querying databases with        SQL for efficient data retrieval.
+   • Managing and querying databases with        SQL for efficient data retrieval.
 
 -🖥️ Data Structures and Algorithms 
 
- • Solving complex problems and optimize       solutions 
+  • Solving complex problems and optimize        solutions 
 
 # 🏆 Achievements
 
